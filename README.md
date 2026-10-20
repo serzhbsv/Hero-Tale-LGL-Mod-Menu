@@ -1,4 +1,5 @@
 # Hero-Tale-LGL-Mod-Menu
+![]([Intro.gif](https://raw.githubusercontent.com/serzhbsv/Hero-Tale-LGL-Mod-Menu/refs/heads/scren/Screenshot.jpg))
 # Important
 It is with great regret that I have to announce that development work on Mod Menu Template and all pther projects will be permanently stopped. The reason for this is that I'm no longer interested in Android modding scene and due to health and changes in my personal life. And, I have sold my Android phone (now own an iPhone)
 
