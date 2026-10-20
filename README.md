@@ -1,3 +1,4 @@
+# Hero-Tale-LGL-Mod-Menu
 # Important
 It is with great regret that I have to announce that development work on Mod Menu Template and all pther projects will be permanently stopped. The reason for this is that I'm no longer interested in Android modding scene and due to health and changes in my personal life. And, I have sold my Android phone (now own an iPhone)
 
@@ -47,4 +48,4 @@ Thanks to the following individuals whose code helped me develop this mod menu
 This project is for Educational Use only. We do not condone this project being used to gain an advantage against other people. This project was made for fun. If you are using this project for modding/hacking PU*G, C*DM, and any other Tencent games, we ask you to STOP immediately!
 
 Do not buy any source codes on Telegram even if the author can be trusted, there is always a risk getting scammed. We will not be responsible for that. This project is always FREE to use
-# Hero-Tale-LGL-Mod-Menu
+
